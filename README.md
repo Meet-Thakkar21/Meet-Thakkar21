@@ -35,9 +35,3 @@ Cargo • Git • Netlify • Markdown
 
 - LinkedIn: https://linkedin.com/in/meet-thakkar-13459324b
 - Instagram: https://instagram.com/thakkar.meet.21
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Meet-Thakkar21&theme=github_dark&hide_border=true&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meet-Thakkar21&theme=github_dark&hide_border=true&layout=compact)
