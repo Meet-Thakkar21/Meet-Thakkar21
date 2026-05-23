@@ -7,7 +7,7 @@
 ## Tech Stack
 
 **Languages:**  
-C • C++ • Java • JavaScript • TypeScript • Python • Dart
+Rust • Java • JavaScript • TypeScript • Python • Dart • C • C++
 
 **Frontend:**  
 React • Angular • HTML • CSS • Bootstrap
@@ -22,7 +22,7 @@ Flutter
 MongoDB • MySQL • Firebase
 
 **Tools & Technologies:**  
-Git • Netlify • Markdown
+Cargo • Git • Netlify • Markdown
 
 ## Current Focus
 
